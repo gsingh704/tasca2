@@ -1,2 +1,6 @@
 # robot_factory
-Best Responsive Free HTML5 Template for a Start-up Factory, industry or company
+
+
+Here we will create of Copany website Company: FreeTeam We make apps and webs for small bussiness and big companies
+
+Authors: Gurjant Singh Nil Piñana
