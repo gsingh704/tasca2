@@ -1,0 +1,32 @@
+
+2 brancas ; main i dev
+
+
+
+5 en total
+
+1 pagina principal
+1 serveis 
+1 about us
+
+2 personal , un per cada
+
+
+codi estara en carpet a src i ordenat així
+
+src
+    pagina_principal
+        --index.html
+        --style.css
+        --script.js
+        
+
+    serveis
+        --servei.html
+        --servei.css
+        --servei.js
+
+    imatges
+        --1
+        --2
+    
